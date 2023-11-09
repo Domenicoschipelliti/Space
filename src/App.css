@@ -1,6 +1,10 @@
-.App {
-  text-align: center;
+body {
+  background-image: url("https://ilbolive.unipd.it/sites/default/files/2018-08/spazio.jpg");
 }
+
+/* .App {
+  text-align: center;
+} */
 
 .App-logo {
   height: 40vmin;
